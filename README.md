@@ -1,3 +1,3 @@
-# Data-Science-Project
+# STQD6014-Data-Science
 
 This is my first repository on GitHub...
